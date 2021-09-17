@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is an exercise in refactoring code for a strictly HTML and CSS-based website.
+This repository is an exercise in refactoring code for a strictly HTML- and CSS-based website.
 
 Given a client website with numerous errors and instances of bad-practice HTML and CSS (including both disorganized and redundant code), I was asked to refactor the site's code to meet the below User Story and Acceptance Criteria.
 
