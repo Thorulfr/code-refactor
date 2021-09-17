@@ -4,7 +4,7 @@
 
 This repository is an exercise in refactoring code for a strictly HTML and CSS-based website.
 
-Given a client website with numerous errors and occurrences of bad-practice HTML and CSS (including both disorganized and redundant code), I was asked to refactor the site's code to meet the below User Story and Acceptance Criteria.
+Given a client website with numerous errors and instances of bad-practice HTML and CSS (including both disorganized and redundant code), I was asked to refactor the site's code to meet the below User Story and Acceptance Criteria.
 
 ## User Story
 
@@ -38,6 +38,9 @@ THEN I find a concise, descriptive title
 ## Website
 
 <https://thorulfr.github.io/code-refactor/>
+
+## Screenshot
+![Screenshot](./assets/images/screenshot.png)
 
 ## Badges
 
